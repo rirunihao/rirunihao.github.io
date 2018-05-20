@@ -113,7 +113,7 @@ void welcome()
 		cleardevice();
 		settextstyle(i, 0, "楷体");
 		outtextxy(x-80, y, "浪漫表白日");
-		outtextxy(x-10, y+100, "献给挚爱李明宇");
+		outtextxy(x-10, y+100, "献给挚爱某某某");
 		Sleep(25);
 	}
 
@@ -126,7 +126,7 @@ void welcome()
 	outtextxy(400, 350, "那陪我淋的雨");
 	outtextxy(400, 400, "一幕幕都是你");
 	outtextxy(400, 450, "一尘不染的真心。");
-	outtextxy(600, 500, "----爱你的龙龙");
+	outtextxy(600, 500, "----爱你的某某某");
 
 	
 	getchar();
